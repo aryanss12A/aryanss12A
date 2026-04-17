@@ -36,7 +36,7 @@ aryan = {
 <tr>
 <td width="50%" valign="top">
 
-#### 📦 SKU Demand Anomaly Explainer
+#### 📦 sku demand anomaly explainer
 Retail demand intelligence system that forecasts SKU-level demand, flags supply chain anomalies, and generates AI root-cause reports via Claude API.
 
 **87% detection precision · 11.3% MAPE · <8s per report**
