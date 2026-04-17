@@ -5,8 +5,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.aryansachdeva@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](file:///C:/Users/erary/Downloads/Aryan_Sachdeva_Resume_2026.html)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanss12A&color=58A6FF&style=flat-square)
 
@@ -60,7 +60,7 @@ End-to-end pipeline ingesting Excel sales data into MySQL via Python ETL, with a
 <tr>
 <td width="50%" valign="top">
 
-#### 🛒 Walmart Black Friday Sales Analysis
+#### 🛒 Sales Data Analysis
 SQL-first analysis of 500K+ consumer transactions — segmenting purchase behavior by demographics, city tier, and product category to surface actionable retail insights.
 
 `MySQL` `SQL Analytics` `Kaggle Dataset` `Data Storytelling`
@@ -113,8 +113,7 @@ Production-grade Python scraper extracting title, price, rating, and stock from 
 **Learning Now**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 ---
 
