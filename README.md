@@ -65,7 +65,7 @@ This project delivers end to end vendor inventory,and profitability analytics so
 
 `MySQL` `SQL Analytics` `Kaggle Dataset` `Data Storytelling`
 
-[→ Repo]((https://github.com/aryanss12A/Vendor-Performance-Analytics))
+[→ Repo](https://github.com/aryanss12A/Vendor-Performance-Analytics)
 
 </td>
 <td width="50%" valign="top">
