@@ -37,7 +37,7 @@ aryan = {
 <td width="50%" valign="top">
 
 #### 📦 sku demand anomaly explainer
-Retail demand intelligence system that forecasts SKU-level demand, flags supply chain anomalies, and generates AI root-cause reports via Claude API.
+Retail demand intelligence system that forecasts SKU-level demand, flags supply chain anomalies, and generates AI root-cause reports via Gemini API.
 
 **87% detection precision · 11.3% MAPE · <8s per report**
 
