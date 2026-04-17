@@ -60,12 +60,12 @@ End-to-end pipeline ingesting Excel sales data into MySQL via Python ETL, with a
 <tr>
 <td width="50%" valign="top">
 
-#### 🛒 Sales Data Analysis
-SQL-first analysis of 500K+ consumer transactions — segmenting purchase behavior by demographics, city tier, and product category to surface actionable retail insights.
+#### 🛒 Vendor Performace Analytics 
+This project delivers end to end vendor inventory,and profitability analytics solution using Python,SQL,Power BI.
 
 `MySQL` `SQL Analytics` `Kaggle Dataset` `Data Storytelling`
 
-[→ Repo](https://github.com/aryanss12A/Sales_Data_Analysis)
+[→ Repo]((https://github.com/aryanss12A/Vendor-Performance-Analytics))
 
 </td>
 <td width="50%" valign="top">
